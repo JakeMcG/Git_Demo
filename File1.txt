@@ -3,3 +3,4 @@ First change for feature1
 First change for feature3
 Change for feature3 made on GitHub.com!
 Second change for feature3 made on Github.com!
+Addition to force conflict
