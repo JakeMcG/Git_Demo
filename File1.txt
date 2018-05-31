@@ -2,3 +2,4 @@ This is the first commit!
 First change for feature1
 First change for feature3
 Change for feature3 made on GitHub.com!
+Second change for feature3 made on Github.com!
