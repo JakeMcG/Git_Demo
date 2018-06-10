@@ -6,3 +6,4 @@ Second change for feature3 made on Github.com!
 Addition to force conflict
 If it weren't for the conflict, this would go fine!
 This change made for feature6
+This change made for feature7
