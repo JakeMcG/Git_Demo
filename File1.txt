@@ -7,3 +7,4 @@ Addition to force conflict
 If it weren't for the conflict, this would go fine!
 This change made for feature6
 This change made for feature7
+Change for featureB
