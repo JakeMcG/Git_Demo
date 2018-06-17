@@ -1,4 +1,4 @@
 This file was added for feature2!
 Now interfacing with feature1!
 Change for feature7
-Change for featureA
+Change for featureA now interfacce with featureB!
